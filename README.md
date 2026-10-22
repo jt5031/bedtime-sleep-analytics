@@ -3,7 +3,7 @@
 An end-to-end data science project analyzing how bedtime phone habits, screen brightness, caffeine intake, and physical activity correlate with user sleep debt and next-day fatigue.
 
 ## 🚀 Live App
-Check out the interactive Streamlit web app here: [Insert Streamlit Public Cloud URL]
+Check out the interactive Streamlit web app here: https://bedtime-sleep-analytics-mexagh3pa8fbi36jhfjz8f.streamlit.app/
 
 ## 📊 Key Insights & Findings
 - **Screentime Impact:** Users spending over 90 minutes on phones before bed exhibit significantly higher sleep latency and lower REM sleep percentages.
